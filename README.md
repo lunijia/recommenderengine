@@ -1,4 +1,4 @@
-# recommenderengine - wwekl 1 Programming Exercise: Step One
+# recommenderengine - week 1 Programming Exercise: Step One
 Duke Coursera capstone project
 Provided starter files can be found at: http://www.dukelearntoprogram.com/course5/index.php
 
